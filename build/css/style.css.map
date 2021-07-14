@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.less"],"names":[],"mappings":"AACA,KACI,iBAAA,KADJ,OAGQ,MAAA,QACA,UAAA","file":"style.css","sourcesContent":["@color: #faaffa;\r\nbody{\r\n    background-color: black ;\r\n    p{\r\n        color: @color;\r\n        font-size: 36px;\r\n    }\r\n}\r\n"]}
